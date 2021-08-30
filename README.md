@@ -11,6 +11,6 @@ Wie nutze ich dieses Plugin?
 
 [x] Welt 
 [] Strukturen 
-[] 
+[] Generator 
 
 Release ist am 21.10.2021
