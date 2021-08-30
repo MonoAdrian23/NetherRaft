@@ -12,5 +12,7 @@ Wie nutze ich dieses Plugin?
 - [x] Welt
 - [ ] Strukturen
 - [ ] Generator
+- [ ] Bosskampf
+- [ ] Loot
 
 Release ist am 21.10.2021
