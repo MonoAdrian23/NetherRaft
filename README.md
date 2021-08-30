@@ -9,8 +9,8 @@ Wie nutze ich dieses Plugin?
 - Wichtig! Nutze niemals den /reload Befehl!
 - Das Plugin hat eine Config.yml du kannst die Welt dort zurück setzen.
 
-- [] Welt
-- [] Strukturen
-- [] Generator
+-[x] Welt
+-[ ] Strukturen
+-[ ] Generator
 
 Release ist am 21.10.2021
